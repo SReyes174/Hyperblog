@@ -6,17 +6,21 @@
 body {
     font-family: Helvetica;
     text-align: justify;
-    background-color: goldenrod;
-    color: white;
+    background-color: whitesmoke;
+    color: black;
 }
 
 header {
-    background-color: gray;
+    background-color: #adadad;
     padding: 10px;
 }
 
 section {
-    background-color: gray;
+    background-color: #adadad;
+    border-radius: 10px;
+    margin-top: 50px;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 
 section article {
