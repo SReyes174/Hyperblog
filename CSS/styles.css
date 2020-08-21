@@ -12,8 +12,13 @@ body {
 
 header {
     background-color: gray;
+    padding: 10px;
 }
 
 section {
     background-color: gray;
+}
+
+section article {
+    padding: 20px;
 }
