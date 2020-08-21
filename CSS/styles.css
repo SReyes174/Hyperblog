@@ -1,6 +1,19 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
 body {
     font-family: Helvetica;
     text-align: justify;
-    background-color: cadetblue;
+    background-color: goldenrod;
     color: white;
+}
+
+header {
+    background-color: gray;
+}
+
+section {
+    background-color: gray;
 }
