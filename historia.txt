@@ -5,3 +5,4 @@ Esta es la descripcion de freddy Vega:
 - Cuando pequeño su meta era programar videojuegos.
 - Juega tenis.
 - Mide 1.61m.
+- Es el fundador de CristalLab
