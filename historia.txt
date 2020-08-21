@@ -1,7 +1,8 @@
-Holas soy un texto
+Esta es la descripcion de freddy Vega:
 
-Hello there
-
-Hello world
-
-Mañana nos enfocaremos en su vida laboral
+- CEO de platzi, la mejor plataforma de aprendizaje en linea.
+- Ha viajado mucho.
+- Cuando pequeño su meta era programar videojuegos.
+- Juega tenis.
+- Mide 1.61m.
+- Es el fundador de CristalLab
